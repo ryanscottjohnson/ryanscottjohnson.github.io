@@ -3,7 +3,7 @@ const HtmlPlugin = require('html-webpack-plugin');
 const config = {
   mode: 'development',
   devtool: 'source-map',
-  entry: `${__dirname}/src/main.jsx`,
+  entry: `${__dirname}/src/index.js`,
   output: {
     path: `${__dirname}/docs`,
     filename: 'bundle.js'
