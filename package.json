@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanscottjohnson/ryanscottjohnson.github.io.git"
+    "url": "git+https://github.com/ryanscottjohnson/ryanscottjohnson.github.io"
   },
   "keywords": [],
   "author": "Ryan Scott Johnson",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/ryanscottjohnson/ryanscottjohnson.github.io/issues"
   },
   "homepage": "https://ryanscottjohnson.github.io/docs/",
   "dependencies": {
