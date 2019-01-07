@@ -1,7 +1,7 @@
 {
-  "name": "ambergkim.github.io",
+  "name": "ryanscottjohnson.github.io",
   "version": "1.0.0",
-  "description": "Amber Kim | Full Stack Software Developer | Portfolio",
+  "description": "Ryan Scott Johnson | Full Stack Software Developer | Portfolio",
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,9 +18,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ambergkim/ambergkim.github.io/issues"
+    "url": ""
   },
-  "homepage": "https://ambergkim.github.io/docs/",
+  "homepage": "https://ryanscottjohnson.github.io/docs/",
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
