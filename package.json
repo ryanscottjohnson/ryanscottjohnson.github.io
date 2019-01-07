@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ambergkim/ambergkim.github.io.git"
+    "url": "git+https://github.com/ryanscottjohnson/ryanscottjohnson.github.io.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ryan Scott Johnson",
   "license": "ISC",
   "bugs": {
     "url": ""
