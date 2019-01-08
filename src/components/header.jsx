@@ -28,16 +28,19 @@ class Header extends React.Component {
             <i class="fab fa-github"></i>
               {/* <FontAwesome name="code" size="2x" /> */}
             </a>
-            <a href="https://docs.https://docs.google.com/document/d/11DKYTJn8-BUbFcD4ykTigwKY723eMeYvD6g28rHXRmM/edit?usp=sharing.com/document/d/18TJfPpLyXWLke-iZx0MA0V2IJn9cA8BvoQGr4VBfiu0/edit?usp=sharing">
+            <a href="https://docs.google.com/document/d/11DKYTJn8-BUbFcD4ykTigwKY723eMeYvD6g28rHXRmM/edit?usp=sharing">
               <FontAwesome name="file" size="2x" />
             </a>
           </div>
         </nav>
         <div id="hero-block">
-          <img src="/src/images/coffee.png" alt="Ryan Avatar" id="avatar"/>
+          <img src="/src/images/ryan_circle.JPG" alt="Ryan Avatar" id="avatar"/>
           <div className="cta-block">
             <h1>Software Developer</h1>
-            <h3>Background in Education and Software Development</h3>
+            <h3>Born and Raised Washingtonian <br/>
+                with a background in Education <br/>
+                Husband of 11 years &#38; Father of two</h3>
+            
             <a href="mailto:ryanscottjohnson02@gmail.com">
               <button className="cta-btn">connect</button>
             </a>
