@@ -9,7 +9,7 @@ class Header extends React.Component {
   render() {
     return <header>
         <nav class="header-nav">
-          <img src="/src/images/" alt="Ryan Logo" id="logo"/>
+          {/* <img src="/src/images/coffee.png" alt="Ryan Logo" id="logo"/> */}
           <div class="nav-links">
             <a id="about-link" href="#about-section">
               <FontAwesome name="user" size="2x" />
@@ -29,7 +29,7 @@ class Header extends React.Component {
           </div>
         </nav>
         <div id="hero-block">
-          <img src="/src/images/" alt="Ryan Avatar" id="avatar"/>
+          <img src="/src/images/coffee.png" alt="Ryan Avatar" id="avatar"/>
           <div className="cta-block">
             <h1>Software Developer</h1>
             <h3>Background in Education and Software Development</h3>
