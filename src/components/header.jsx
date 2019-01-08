@@ -12,16 +12,21 @@ class Header extends React.Component {
           {/* <img src="/src/images/coffee.png" alt="Ryan Logo" id="logo"/> */}
           <div class="nav-links">
             <a id="about-link" href="#about-section">
-              <FontAwesome name="user" size="2x" />
+              <FontAwesome name="user-tie" size="2x" />
             </a>
             <a href="mailto:ryanscottjohnson02@gmail.com">
-              <FontAwesome name="envelope" size="2x" />
+              <FontAwesome name="at" size="2x" />
             </a>
             <a href="https://www.https://www.linkedin.com/in/ryanscottjohnson/">
-              <FontAwesome name="users" size="2x" />
+            <span size="10x">
+            <i class="fab fa-linkedin"></i>
+            </span>
+              {/* <FontAwesome name="fab fa-linkedin" size="2x" /> */}
+
             </a>
             <a href="https://github.com/ryanscottjohnson">
-              <FontAwesome name="code" size="2x" />
+            <i class="fab fa-github"></i>
+              {/* <FontAwesome name="code" size="2x" /> */}
             </a>
             <a href="https://docs.https://docs.google.com/document/d/11DKYTJn8-BUbFcD4ykTigwKY723eMeYvD6g28rHXRmM/edit?usp=sharing.com/document/d/18TJfPpLyXWLke-iZx0MA0V2IJn9cA8BvoQGr4VBfiu0/edit?usp=sharing">
               <FontAwesome name="file" size="2x" />
