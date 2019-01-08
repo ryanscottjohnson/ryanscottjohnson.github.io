@@ -1,7 +1,4 @@
-// import {
-//   WORD_CREATE,
-//   WORD_RANDOM,
-// } from '../actions/word-card-actions.js';
+
 import uuidv1 from 'uuid/v1';
 import { PROJECTS_FILTER } from '../actions/projects-actions';
 
@@ -10,17 +7,37 @@ const initialState = {
     {
       title: 'Nouri Meals',
       id: uuidv1(),
-      imageUrl: '/src/images/nouri.png',
+      imageUrl: '/src/images/nouri_favicon.png',
       demoUrl: 'https://nourimeals.herokuapp.com/',
       gitHubUrl: 'https://github.com/nourimeals/nouri',
       tags: ['mongodb', 'javascript', 'node', 'frontend', 'backend', 'user experience', 'user interface', 'html', 'css', 'react', 'redux', 'fullstack'],
       description: 'In the fight to solve hunger in the Greater Seattle Area. A project began during AngelHack Seattle 2018.',
       contribution: 'Ideation, team formation, planning, branding, wireframes & mockup design, architecture, project managemet, pair programming, presentation.'
     },
+        {
+      title: 'Teressa Johnson Studio',
+      id: uuidv1(),
+      imageUrl: '/src/images/tjs-logo.png',
+      demoUrl: '',
+      gitHubUrl: '',
+      tags: ['mongodb', 'javascript', 'node', 'frontend', 'backend', 'user experience', 'user interface', 'html', 'css', 'react', 'redux', 'fullstack'],
+      description: '',
+      contribution: ''
+    },
+    {
+      title: 'FoodFit',
+      id: uuidv1(),
+      imageUrl: '/src/images/FoodFit-Logo.png',
+      demoUrl: '',
+      gitHubUrl: '',
+      tags: ['javascript', 'node', 'mongodb', 'heroku', 'travisci', 'aws', 'jasonwebtoken', 'rest', 'backend'],
+      description: '',
+      contribution: ''
+    },
     {
       title: 'KidCast',
       id: uuidv1(),
-      imageUrl: '/src/images/kidcast.png',
+      imageUrl: '/src/images/kidcast_logo.png',
       demoUrl: 'https://kidcast.herokuapp.com/api/media',
       gitHubUrl: 'https://github.com/kidcast/media',
       tags: ['javascript', 'node', 'mongodb', 'heroku', 'travisci', 'aws', 'jasonwebtoken', 'rest', 'backend'],
