@@ -31,8 +31,8 @@ const initialState = {
       demoUrl: 'https://team-80-20.github.io/FoodFit/',
       gitHubUrl: 'https://github.com/Team-80-20',
       tags: ['javascript', 'node', 'mongodb', 'heroku', 'travisci', 'aws', 'jasonwebtoken', 'rest', 'backend'],
-      description: '',
-      contribution: ''
+      description: 'A food and fitness applicaton for the working professional concentious of their diet and health.',
+      contribution: 'Co-created the front end of the site and built the fitness activity portion of the application.'
     },
     {
       title: 'KidCast',
@@ -41,7 +41,7 @@ const initialState = {
       demoUrl: 'https://kidcast.herokuapp.com/api/media',
       tags: ['javascript', 'node', 'mongodb', 'heroku', 'travisci', 'aws', 'jasonwebtoken', 'rest', 'backend'],
       description: 'A YouTube-like Back End Node.js application designed to only display kid friendly content.',
-      contribution: ''
+      contribution: 'Co-created the structure of the backend storage and functionality of the application. Built the user authorization (basic and barer).'
     },
   ],
   filter: ''
