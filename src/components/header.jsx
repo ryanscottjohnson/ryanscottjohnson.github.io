@@ -39,7 +39,7 @@ class Header extends React.Component {
             <h1>Software Developer</h1>
             <h3>Born and Raised Washingtonian <br/>
                 with a background in Education <br/>
-                Husband of 11 years &#38; Father of two</h3>
+                Husband of 11 years &#38; Father of two </h3>
             
             <a href="mailto:ryanscottjohnson02@gmail.com">
               <button className="cta-btn">connect</button>
