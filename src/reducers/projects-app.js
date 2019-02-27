@@ -10,7 +10,7 @@ const initialState = {
       imageUrl: '/src/images/defywa_final2.png',
       demoUrl: 'http://defyventureswa.org/',
       gitHubUrl: 'https://ryanscottjohnson.github.io/docs/',
-      tags: ['wordpress', 'frontend', 'user experience', 'user interface',],
+      tags: ['wordpress', 'frontend', 'user experience',],
       description: 'Our mission is to help transform the lives of those in prison by helping them tap into their entrepreneurial talents and become valued contributors to our society.',
       contribution: 'Contract WordPress Developer'
     },
