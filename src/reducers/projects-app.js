@@ -24,7 +24,27 @@ const initialState = {
       description: 'In the fight to solve hunger in the Greater Seattle Area. A project began during AngelHack Seattle 2018.',
       contribution: 'Project promotion and demonstration. Focusing on front-end development and adapting the project as it continues to evolve.'
     },
-        {
+    {
+      title: 'Isitt Construction',
+      id: uuidv1(),
+      imageUrl: '/src/images/IsittConstruction_logo.png',
+      demoUrl: 'https://www.isittconstruction.com/',
+      gitHubUrl: 'https://ryanscottjohnson.github.io/docs/',
+      tags: ['Wix', 'frontend', 'user experience',],
+      description: 'Promoting construction business for marketing campaign.',
+      contribution: 'Contract Wix Developer and marketing campaign lead.'
+    },
+    {
+      title: 'Chinook Remodel',
+      id: uuidv1(),
+      imageUrl: '/src/images/chinook_logo.svg',
+      demoUrl: 'http://www.chinookremodel.com/',
+      gitHubUrl: 'GitLab Project',
+      tags: ['react', 'website', 'frontend', 'user experience',],
+      description: 'Promoting construction business for marketing campaign.',
+      contribution: 'Contract Developer'
+    },
+    {
       title: 'Teressa Johnson Studio',
       id: uuidv1(),
       imageUrl: '/src/images/tjs-logo.png',
