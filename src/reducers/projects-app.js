@@ -44,6 +44,16 @@ const initialState = {
       description: 'Promoting construction business for marketing campaign.',
       contribution: 'Contract Developer'
     },
+       {
+      title: 'Mock App',
+      id: uuidv1(),
+      imageUrl: '/src/images/alaska-og.jpg',
+      demoUrl: 'https://github.com/ryanscottjohnson/ISTC',
+      gitHubUrl: 'https://github.com/ryanscottjohnson/ISTC',
+      tags: ['react', 'javascript', 'SASS', 'frontend', 'user experience', 'user interface', 'html', 'css', 'redux',],
+      description: 'Technical Challenge featuring a multi-tiered menu app built entirely using ReactJS',
+      contribution: 'Developed from scratch based on wireframe and video concept, featuring mobile first design.'
+    },
     {
       title: 'Teressa Johnson Studio',
       id: uuidv1(),
