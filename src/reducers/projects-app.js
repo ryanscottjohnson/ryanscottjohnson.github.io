@@ -7,7 +7,7 @@ const initialState = {
     {
       title: 'Defy Ventures WA',
       id: uuidv1(),
-      imageUrl: '/src/images/defywa_final2.png',
+      imageUrl: '/src/images/defyventwash.png',
       demoUrl: 'http://defyventureswa.org/',
       gitHubUrl: 'https://ryanscottjohnson.github.io/docs/',
       tags: ['wordpress', 'frontend', 'user experience',],
@@ -54,16 +54,16 @@ const initialState = {
       description: 'Technical Challenge featuring a multi-tiered menu app built entirely using ReactJS',
       contribution: 'Developed from scratch based on wireframe and video concept, featuring mobile first design.'
     },
-    {
-      title: 'Teressa Johnson Studio',
-      id: uuidv1(),
-      imageUrl: '/src/images/tjs-logo.png',
-      demoUrl: 'https://secure-dawn-11135.herokuapp.com/',
-      gitHubUrl: 'https://github.com/TeressaJohnsonStudio/TJS',
-      tags: ['mongodb', 'javascript', 'Nodemailer', 'frontend', 'backend', 'user experience', 'user interface', 'html', 'css', 'react', 'redux', 'fullstack'],
-      description: 'Website for a growing small business in the Seattle floral design market.',
-      contribution: 'Project lead. Communicating between business owner and development team. Leading the front end development as the project manager.'
-    },
+    // {
+    //   title: 'Teressa Johnson Studio',
+    //   id: uuidv1(),
+    //   imageUrl: '/src/images/tjs-logo.png',
+    //   demoUrl: 'https://secure-dawn-11135.herokuapp.com/',
+    //   gitHubUrl: 'https://github.com/TeressaJohnsonStudio/TJS',
+    //   tags: ['mongodb', 'javascript', 'Nodemailer', 'frontend', 'backend', 'user experience', 'user interface', 'html', 'css', 'react', 'redux', 'fullstack'],
+    //   description: 'Website for a growing small business in the Seattle floral design market.',
+    //   contribution: 'Project lead. Communicating between business owner and development team. Leading the front end development as the project manager.'
+    // },
     {
       title: 'FoodFit',
       id: uuidv1(),
